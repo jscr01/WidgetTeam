@@ -1,0 +1,20 @@
+{
+  "name": "widget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/bootstrap": "^3.3.34",
+    "@types/jquery": "^2.0.45",
+    "dashboardwidget": "^1.0.3",
+    "jquery": "3.2.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.0",
+    "typescript": "^2.4.1",
+    "@types/jquery": "^2.0.45"
+  },
+  "author": "",
+  "license": "ISC"
+}
